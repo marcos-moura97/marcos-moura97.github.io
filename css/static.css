@@ -16,6 +16,10 @@
   background: #fff !important;
 }
 
+.timeline_container {
+  margin: 2rem 4rem !important;
+}
+
 /* Navbar */
 .nav {
   background-color: var(--first-color);
